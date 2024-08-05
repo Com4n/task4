@@ -1,0 +1,12 @@
+PS C:\Users\adita\Desktop\task4\task4> cargo run mat.in
+   Compiling task4 v0.1.0 (C:\Users\adita\Desktop\task4\task4)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.60s
+     Running `target\debug\task4.exe mat.in`
+
+
+
+
+
+PS C:\Users\adita\Desktop\task4\task4> cargo run mat.in.x
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.01s
+     Running `target\debug\task4.exe mat.in.x`
